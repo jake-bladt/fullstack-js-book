@@ -24,5 +24,5 @@ The shortcoming of this approach is that pop-ups are generally a method of last 
 
 Instead of diving head-first into code, let's look at a couple of tools that will be your fast friends and boon companions as you learn and use Javascript.
 
-### Chrome Developer Tools
+**Chrome Developer Tools**
 Lorem ipsum...
