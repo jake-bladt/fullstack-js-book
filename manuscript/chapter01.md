@@ -21,9 +21,11 @@ At this point, most books about Javascript would provide you with a step-by-step
 
 The shortcoming of this approach is that pop-ups are generally a method of last resort for communicating with an end user in Javascript and, with a proliferation of top-notch libraries and frameworks for handling DOM manipulation, only a madman (or madwoman) would do so in raw, feral Javascript. Besides being verbose and uninituitive, DOM manipulation in raw Javascript can be a bit of a black art because of differences in browser implementation. Later, we'll see how libraries like jQuery use CSS selectors to tame the DOM and render remarkable results.
 
-
-
 (If you feel ill-used for the lack of a "Hello, World" example at this point, you can try one [here](http://javascript.info/tutorial/hello-world). Go ahead. I'll wait.)
+
+T> **Protip**: One of the many pain points of working with Javascript is that different browsers implement Javascript and the DOM (the in-memory representation of the current web page differently) even though both are supposed to based on publicly agreed-upon standards.
+
+T> For a time, all browser makers seemed to believe they could corner the market by "embracing and extending" Javascript. This was known as the browser wars. Like most wars, nobody really won. In recent years (and with the advent of HTML5,) the differences have become less and less, but they're still there. Several of the libraries described in this book arose out of a need to address cross-browser compatability issues.
 
 Instead of diving head-first into code, let's look at a couple of tools that will be your fast friends and boon companions as you learn and use Javascript.
 
