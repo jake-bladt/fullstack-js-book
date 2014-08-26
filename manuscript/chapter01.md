@@ -34,3 +34,13 @@ One category of tools that have evolved alone with Javascript are in-browser dev
 In the interest of full disclosure, Microsoft provides [F12 Developer Tools](http://msdn.microsoft.com/en-us/library/ie/gg589507(v=vs.85).aspx) for Internet Explorer as well. For the most part, I'll be focused on working in Chrome. As the tip above mentioned, different browsers handle things differently and IE is more different than most, creating the most headaches for web developers. While Microsoft has greatly improved IE's adherence to open standards in later versions, calling IE "reformed" would be pushing it more than a little.
 
 Even if IE were ever to become 100% standards compliant, don't expect the developer community to embrace it with open arms. Most of us bear deep, disfiguring scars from working with Internet Explorer 6. Comparably, IE 11 is a joy to work with. But IE6 was the Joffrey Baratheon of web browsers - the worst of a bad line, making us forever doubt future issue.
+
+TODO: Enough description of CDT to use the console
+
+
+**Hello Console**  
+Lorem ipsum
+
+
+## Testing your Javascript with Jasmine
+Lorem ipsum
