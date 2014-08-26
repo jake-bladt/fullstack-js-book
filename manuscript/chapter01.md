@@ -11,4 +11,8 @@ Instead of being a failure, Javascript is now a ubiquitous part of the online ex
 
 That being said, Javascript is weird. If you approach it, thinking it's "like Java," you will spend hundreds of hours unlearning that preconception. The same is true if you think it's like any classically object-oriented language. For example, Javascript has a ```new()``` operator, but no concept of classes. It has objects, but they don't behave like Java objects or C++ objects. It has functions, but... well, it has functions in the way that the ocean has water.
 
+Over the last twenty years, developers have wrestled with Javascript, building more and more complex client-side applications and, in the process, creating better and better tools for handling the language and its many idiosyncracies. In more recent years, they've built frameworks like jQuery, AngularJS and node that completely change both how we develop web applications and how we use the web.
+
+This book is an introduction to the Javascript ecosystem - the patterns, tools, and libraries that are used to build some of the most successful web sites in the world.
+
 
