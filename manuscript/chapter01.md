@@ -44,3 +44,9 @@ Lorem ipsum
 
 ## Testing your Javascript with Jasmine
 Lorem ipsum
+
+**Passing functions to functions**  
+...anonymous, first-class functions.... what Jasmine does with these functions.
+
+**Test-first development in Jasmine**
+Test first, red-green-refactor... When Javascript breaks, sometimes it really breaks.
