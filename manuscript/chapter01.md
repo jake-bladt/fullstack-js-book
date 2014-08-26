@@ -5,4 +5,10 @@ Javascript was first released as a client-side scripting that ran in the beta ve
 
 As a result, for the last twenty years, everyone who writes or talks about Javascript feels the need at some point to say, "Javascript is not Java." In fact, it's not even close.
 
+Considering its origins, Javascript should have been an unremarked-upon failure. But by 1995, developers were pushing the limits of server-side dynamic web programming and had an immediate appetite for any sort of behavior that didn't require the browser to call back to the web server and get a fresh page. Javascript wasn't pretty, but it was the language that launched a million drop-down menus (not to mention image swaps, hover effects, and overwrought "ferret pages.")
+
+Instead of being a failure, Javascript is now a ubiquitous part of the online experience. It runs in every modern browser, on phones and set-top cable boxes, and even on the server. As Scott Hanselman famously noted, [Javascript has become the Assembly Language of the Web](http://www.hanselman.com/blog/JavaScriptIsAssemblyLanguageForTheWebSematicMarkupIsDeadCleanVsMachinecodedHTML.aspx).
+
+That being said, Javascript is weird. If you approach it, thinking it's "like Java," you will spend hundreds of hours unlearning that preconception. The same is true if you think it's like any classically object-oriented language. For example, Javascript has a ```new()``` operator, but no concept of classes. It has objects, but they don't behave like Java objects or C++ objects. It has functions, but... well, it has functions in the way that the ocean has water.
+
 
