@@ -1,3 +1,4 @@
+{mainmatter}
 # Chapter 1: Feral Javascript and how to tame it
 
 ## A (Very) Brief History of Javascript
