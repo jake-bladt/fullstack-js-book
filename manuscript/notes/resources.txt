@@ -1,0 +1,58 @@
+Fluent Conference 2013: JavaScript & Beyond Complete Video Compilation
+http://bit.ly/16UNQgs
+
+Eloquent JavaScript
+http://bit.ly/1aW37wp
+
+JavaScript for Absolute Beginners
+http://bit.ly/19Y02h6
+
+Secrets of the JavaScript Ninja
+http://bit.ly/19QuXKr
+
+The HTML5 JavaScript Model
+http://bit.ly/16gGGou
+
+The Douglas Crockford JavaScript Master Class
+http://bit.ly/1augHWv
+
+Object-Oriented JavaScript: Create scalable, reusable high-quality JavaScript applications, and libraries
+http://bit.ly/16ZBYK9
+
+JavaScript Patterns
+http://bit.ly/179kJIG
+
+AngularJS
+http://bit.ly/172n6e4
+
+Building Node Applications with MongoDB and Backbone
+http://bit.ly/1b5pcZG
+
+Getting Started with D3
+http://bit.ly/16lxrmP
+
+jQuery: Novice to Ninja
+http://bit.ly/GXaDOL
+
+Learning Node.js LiveLessons (Video Training)
+http://bit.ly/H5KsWs
+
+Professional Node.js: Building Javascript Based Scalable Software
+http://bit.ly/1a67Yx0
+
+Smashing Node.js: JavaScript Everywhere, Second Edition
+http://bit.ly/16pGFco
+
+Node Cookbook
+http://bit.ly/H5Kygy
+
+Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript
+http://bit.ly/17DAT7q
+
+JavaScript Testing with Jasmine
+http://bit.ly/H9IDIe
+
+Test-Driven JavaScript Development
+http://bit.ly/17b1jTV
+
+
