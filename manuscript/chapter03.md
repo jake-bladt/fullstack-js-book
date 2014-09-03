@@ -1,1 +1,1 @@
-# Chapter 3: a different full-stack application with Angular and Firebase
+# Chapter 3: serverless full-stack with Angular and Firebase
