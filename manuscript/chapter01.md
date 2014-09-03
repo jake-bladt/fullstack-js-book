@@ -46,6 +46,7 @@ Lorem ipsum
 Lorem ipsum
 
 **Passing functions to functions**  
+aka JavaScript Weirdness, section 1 of a lot
 ...anonymous, first-class functions.... what Jasmine does with these functions.
 
 **Test-first development in Jasmine**
