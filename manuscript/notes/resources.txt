@@ -55,4 +55,6 @@ http://bit.ly/H9IDIe
 Test-Driven JavaScript Development
 http://bit.ly/17b1jTV
 
+Simple inheritance in Javascript
+http://blogs.msdn.com/b/eternalcoding/archive/2014/08/20/simple-inheritance-with-javascript.aspx
 
